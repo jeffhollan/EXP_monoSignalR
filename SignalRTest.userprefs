@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="SignalRTest/SignalRTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRTest/Program.cs">
+    <Files>
+      <File FileName="SignalRTest/Program.cs" Line="6" Column="6" />
+      <File FileName="SignalRTest/SocketConnector.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

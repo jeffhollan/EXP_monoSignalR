@@ -1,0 +1,8 @@
+/home/jeff/SignalRTest/SignalRTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeff/SignalRTest/SignalRTest/bin/Debug/Newtonsoft.Json.dll
+/home/jeff/SignalRTest/SignalRTest/bin/Debug/Microsoft.AspNet.SignalR.Client.dll
+/home/jeff/SignalRTest/SignalRTest/bin/Debug/NLog.dll
+/home/jeff/SignalRTest/SignalRTest/bin/Debug/SignalRTest.exe.mdb
+/home/jeff/SignalRTest/SignalRTest/bin/Debug/SignalRTest.exe
+/home/jeff/SignalRTest/SignalRTest/obj/x86/Debug/SignalRTest.exe
+/home/jeff/SignalRTest/SignalRTest/obj/x86/Debug/SignalRTest.exe.mdb
